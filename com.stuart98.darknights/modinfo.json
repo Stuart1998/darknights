@@ -1,9 +1,9 @@
 {
 	"author" : "Stuart98, bgolus",
-	"build" : "76557",
+	"build" : "89755",
 	"category" : [ "ui" ],
 	"context" : "client",
-	"date" : "2015/01/06",
+	"date" : "2016/04/18",
 	"description" : "Makes nights much, much darker.",
 	"display_name" : "Dark Nights",
 	"enabled" : true,
@@ -12,5 +12,5 @@
 	"identifier" : "com.stuart98.darknights",
 	"priority" : 100,
 	"signature" : "not yet implemented",
-	"version" : "1.3"
+	"version" : "1.4"
 }
